@@ -33,4 +33,3 @@ LANGUAGE 'plpython3u';
 
 select url_quote('https://google.com');
 ```
-
