@@ -1,4 +1,4 @@
-FROM postgres:16.2-alpine3.19
+FROM postgres:16.3-alpine3.20
 RUN apk update
 RUN apk add python3 \
             py3-pip \
